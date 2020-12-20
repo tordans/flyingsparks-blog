@@ -1,10 +1,17 @@
-# flyingsparks-blog
+# fly.ingsparks.de Blog
 
-Weblog http://fly.ingsparks.de/ and images for https://www.openstreetmap.org/user/tordans/diary
+Weblog http://fly.ingsparks.de/ (todo) and images for https://www.openstreetmap.org/user/tordans/diary (done)
+
+## Current URL
+
+https://tordans.github.io/flyingsparks-blog/
+
+For example `https://tordans.github.io/flyingsparks-blog/images-for--openstreetmap-org-user-tordans-diary/2020-12-fahrradstativ/example-image-mapillary-website.jpg`
 
 ## TODO
 
-* Migrate fly.ingsparks.de to here
+* Migrate fly.ingsparks.de content here
+* Migrate Domain
 
 ## DONE
 
