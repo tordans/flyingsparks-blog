@@ -133,7 +133,7 @@ What the images look like:
 
 Basically all images in Brandenburg an der Havel use this setup :-) https://www.mapillary.com/app/?lat=52.41002186112698&lng=12.560155037356026&z=15.042866673831352&focus=map&username%5B%5D=tordans
 
-My take: Very easy to "build" and takes good pictures. The height is quite good for this mode of transport as well. I would have to solve camera angle however, so I may get full 5 points on the quality score (https://blog.mapillary.com/update/2020/11/05/introducing-the-quality-score.html) :-).
+My take: Very easy to "build" and takes good pictures. The height is quite good for this mode of transport as well. I would have to improve the camera angle, however, so I may get full 5 quality score points (https://blog.mapillary.com/update/2020/11/05/introducing-the-quality-score.html) :-).
 
 
 # Assessment of this prototype
@@ -142,13 +142,13 @@ My take: Very easy to "build" and takes good pictures. The height is quite good 
 
 **OK: Mounting (Goal 3).** The mounting is OK, but the screws are not ideal. I would love to have a setup that allows to change the height with one hand more or less -- ideally while moving. I like the construction detail (realised by a cable tie for now) that allows me keep the main "tube" in the guide piece without fixing the screws, yet.
 
-Another improvement would be to be able to turn the field of view to the left/right. This would allow me to see just a bit more of the sidewalk and house entries whenever I take pictures from both sides of a street. Which would make working with those images for mapping even easier.
+Another improvement would be to be able to turn the field of view to the left/right. This would allow me to see just a bit more of the sidewalk and house entries whenever I take pictures from both sides of a street. That would make working with those images for mapping even easier.
 
-**Great: GPS.** I am really pleased with the quality of GPS. It's a lot better than that of my iPhone. A small disadvantage is: It takes a while to connect, so I need to remember not to start moving right away but wait a bit. Otherwise the images will have no GPS at all (not even a bad GPS) and the uploader will show an error and ignore the image.
+**Great: GPS.** I am really pleased with the quality of GPS. It's a lot better than that of my iPhone. A small disadvantage is, that it takes a while to connect. I need to remember not to start moving right away but wait a bit. Otherwise the images will have no GPS at all (not even a bad GPS) and the uploader will show an error and ignore the image.
 
-I also noticed missing GPS below bridges which results in no images being uploaded. A while ago I suggested to add an interpolation feature for those cases (https://forum.mapillary.com/t/feature-request-continue-creating-pictures-even-if-gps-is-red/2805).
+I also noticed missing GPS below bridges which results in no images being uploaded. Which reminds me, that a while ago I suggested to add an interpolation feature for those cases (https://forum.mapillary.com/t/feature-request-continue-creating-pictures-even-if-gps-is-red/2805).
 
-To test the quality of the GPS, the Deriviste app https://osm.cycle.travel/deriviste/ is a good indicator. In this case, it places the tree nearly at the right position. Which is a lot better than what I experienced in 2018 when I experimented with pictures taken from my iPhone (https://github.com/mapillary/mapillary-js/issues/272).
+To test the quality of the GPS, the Deriviste app https://osm.cycle.travel/deriviste/ is a good indicator. In this test, it places the tree nearly at the right position. Which is a lot better than what I experienced in 2018 when I experimented with pictures taken from my iPhone (see https://github.com/mapillary/mapillary-js/issues/272).
 
 ![Picture](https://tordans.github.io/flyingsparks-blog/images-for--openstreetmap-org-user-tordans-diary/2020-12-fahrradstativ/deriviste-gps-test.jpg)
 
