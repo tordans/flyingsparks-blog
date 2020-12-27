@@ -8,6 +8,7 @@ https://tordans.github.io/flyingsparks-blog/
 
 For example `https://tordans.github.io/flyingsparks-blog/images-for--openstreetmap-org-user-tordans-diary/2020-12-fahrradstativ/example-image-mapillary-website.jpg`
 
+List of images for OSM: https://tordans.github.io/flyingsparks-blog/images-for--openstreetmap-org-user-tordans-diary/index.html
 ## TODO
 
 * Migrate fly.ingsparks.de content here
