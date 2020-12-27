@@ -13,6 +13,6 @@ layout: home
 <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
 <pre>{{ site.baseurl }}{{ image.path }}</pre>
 <pre>![Picture](https://tordans.github.io/flyingsparks-blog{{ site.baseurl }}{{ image.path }})</pre>
-  {% endif %}
+  {% endunless %}
   {% endif %}
 {% endfor %}
